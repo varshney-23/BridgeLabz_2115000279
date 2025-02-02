@@ -23,5 +23,9 @@ Branch : feature_29-01-25 <br>
 Status : Completed
 
 Assignment 7 - Completion Details <br>
-Branch : feature_30-01-25 <br>
+Branch : feature_31-01-25 <br>
+Status : Completed
+
+Assignment 8 - Completion Details <br>
+Branch : feature_02-02-25 <br>
 Status : Completed
