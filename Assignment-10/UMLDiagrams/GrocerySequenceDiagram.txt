@@ -1,0 +1,12 @@
+
+          		       Customer                    Product                           BillGenerator
+	       		          |                          |                                    |
+				  |                          |                                    |
+				  |<--isProductAvailable---->|                                    |
+				  |                          |                                    |
+				  |                          |                                    |
+				  |<---availableStatus()-----|                                    |
+				  |                          |                                    |
+				  |----productQuantity()---->|                                    |
+				  |                          |------generateBill(price,quantity)->|
+				  |<------------------returnBill()--------------------------------|
