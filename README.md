@@ -84,7 +84,19 @@ Description:
 - Implemented object and sequence diagrams to represent interactions between objects.
 - Understood the importance of UML diagrams in structured software development.
 - Solved problems like Library and Books (Aggregation), Bank and Account Holders (Association), etc.
-
+***
+Assignment 11 - Completion Details <br>
+Branch : feature_07-02-25 <br>
+Status : Completed <br>
+Description:
+- Implemented **Inheritance, Polymorphism, and Hybrid Inheritance** through real-world examples.  
+- **Key Implementations:**  
+  - **Animal Hierarchy:** Method overriding in `Dog`, `Cat`, `Bird`.  
+  - **Employee System:** Polymorphism with `Manager`, `Developer`, `Intern`.  
+  - **Vehicle System:** Hybrid inheritance using `Vehicle`, `PetrolVehicle`, `ElectricVehicle`, `Refuelable`.  
+  - **Library System:** `Book` and `Author` with overridden `displayInfo()`.  
+  - **Smart Home:** `Device` superclass, `Thermostat` subclass.  
+  - **Restaurant System:** Multiple inheritance using `Person`, `Worker`, `Chef`, `Waiter`.  
 
 
 
