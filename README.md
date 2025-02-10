@@ -96,8 +96,29 @@ Description:
   - **Vehicle System:** Hybrid inheritance using `Vehicle`, `PetrolVehicle`, `ElectricVehicle`, `Refuelable`.  
   - **Library System:** `Book` and `Author` with overridden `displayInfo()`.  
   - **Smart Home:** `Device` superclass, `Thermostat` subclass.  
-  - **Restaurant System:** Multiple inheritance using `Person`, `Worker`, `Chef`, `Waiter`.  
+  - **Restaurant System:** Multiple inheritance using `Person`, `Worker`, `Chef`, `Waiter`.
+***
+Assignment 12 - Completion Details  
+Branch : feature_10-02-25  
+Status : Completed  
+Description:  
+Implemented best programming practices with encapsulation, polymorphism, interfaces, and abstract classes. 
 
+Key Concepts:  
+- **Encapsulation**: Private fields, getter-setters, validation, immutable classes.  
+- **Polymorphism**: Interface-based design, method overriding, covariant return types.  
+- **Interfaces & Abstract Classes**: Modular behavior, flexible design, balanced abstraction.  
+- **General Practices**: Java conventions, documentation, SOLID principles.  
+
+Problem Statements Covered:  
+1. **Employee Management** - Abstract employees, department interface.  
+2. **E-Commerce Platform** - Polymorphic pricing, tax calculations.  
+3. **Vehicle Rental System** - Rental cost, insurance via interface.  
+4. **Banking System** - Abstract accounts, loan interface.  
+5. **Library Management** - Abstract items, reservable interface.  
+6. **Food Delivery** - Order processing, discount handling.  
+7. **Hospital Management** - Patient records, billing.  
+8. **Ride-Hailing** - Vehicle fares, GPS tracking.  
 
 
 
