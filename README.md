@@ -123,7 +123,7 @@ Problem Statements Covered:
 Assignment 13 - Completion Details  
 Branch : feature_11-02-25  
 Status : Completed  
-
+Description: <br>
 **Best Practices for LinkedList:**  
 - Maintain head/tail pointers for efficient access.  
 - Check for null before operations to prevent errors.  
@@ -152,10 +152,52 @@ Status : Completed
    - Implement undo/redo in a text editor.  
 9. **Circular Linked List: Online Ticket Reservation System**  
    - Book, cancel, and display ticket reservations.  
+***
+Assignment 14 - Completion Details  
+Branch : feature_13-02-25  
+Status : Completed  
+Description:
+- Implemented stack and queue-based problems, optimizing push/pop and enqueue/dequeue operations.
+- Explored hash map applications for efficient searching and data retrieval.
+- Solved array-based challenges, including subarray sums and sequence detection.
+- Designed a custom hash map using separate chaining for collision handling.
+- Practiced real-world problem-solving, including stock span, sliding window, and circular tour problems.
+- Optimized algorithms for better time complexity, using stacks, queues, and hash maps.<br>
 
+**Problems Solved:**
 
+- Queue Using Stacks – Implement a queue using two stacks and perform enqueue and dequeue operations efficiently.
+- Sort a Stack Using Recursion – Given a stack, sort its elements in ascending order using recursion.
+- Stock Span Problem – For each day in a stock price array, calculate the span (number of consecutive days the price was less than or equal to the current day's price).
+- Sliding Window Maximum – Given an array and a window size k, find the maximum element in each sliding window of size k.
+- Circular Tour Problem – Given a set of petrol pumps with petrol and distance to the next pump, determine the starting point for completing a circular tour.
+- Find All Subarrays with Zero Sum – Given an array, find all subarrays whose elements sum up to zero using a hash map.
+- Check for a Pair with Given Sum – Given an array and a target sum, check if a pair of elements exist whose sum equals the target.
+- Longest Consecutive Sequence – Find the length of the longest consecutive elements sequence in an unsorted array.
+- Implement a Custom Hash Map – Design and implement a basic hash map class with operations for insertion, deletion, and retrieval using separate chaining.
+- Two Sum Problem – Given an array and a target sum, find two indices such that their values add up to the target using a hash map.
+***
+Assignment 15 - Completion Details  
+Branch : feature_14-02-25  
+Status : Completed       
+Description:
+- Implemented sorting algorithms, focusing on time and space complexity optimizations.
+- Explored comparison-based and non-comparison-based sorting techniques.
+- Solved real-world sorting problems, ensuring efficiency for large datasets.
+- Implemented recursive and iterative approaches to sorting.
+- Optimized sorting logic using divide and conquer techniques.
+- Analyzed best, worst, and average case complexities for each sorting algorithm.<br>
 
+**Problems Solved:**
 
+- Bubble Sort – Implemented a basic comparison-based sorting algorithm.
+- Selection Sort – Sorted an array by repeatedly selecting the minimum element.
+- Insertion Sort – Inserted elements at the correct position to maintain sorted order.
+- Merge Sort – Implemented a divide-and-conquer sorting algorithm with O(n log n) complexity.
+- Quick Sort – Used the partitioning approach to recursively sort the array.
+- Heap Sort – Implemented sorting using a binary heap for efficient selection.
+- Counting Sort – Used frequency counting for sorting non-negative integers.
+***
 
 
 
