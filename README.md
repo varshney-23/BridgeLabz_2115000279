@@ -198,6 +198,36 @@ Description:
 - Heap Sort – Implemented sorting using a binary heap for efficient selection.
 - Counting Sort – Used frequency counting for sorting non-negative integers.
 ***
+Assignment 16 - Completion Details  
+Branch : feature_15-02-25  
+Status : Completed       
+Description:
+- Optimizing search strategies based on data structure properties.
+- Implementing problem-specific variations of standard search techniques.
+- Comparing performance between StringBuilder and StringBuffer for string concatenation.
+- Understanding file handling using FileReader and InputStreamReader, and their differences in reading character streams from files.
+- Understanding the efficiency differences between Linear and Binary Search.
+- Handling edge cases in searching problems (e.g., negative numbers, sorted vs. unsorted data, missing elements).
 
+**Performance & File Handling Problems:** 
 
+- StringBuilder vs. StringBuffer : Concatenates strings 1,000,000 times using both and compares performance.
+- Reading a Large File using FileReader and InputStreamReader : Reads a large text file (100MB) and counts the number of words, comparing performance between the two approaches.
 
+**Linear Search Problems:**  
+
+- Search for the First Negative Number - Finds the index of the first negative number in an array.
+- Search for a Specific Word in a List of Sentences - Finds the first sentence containing a given word.
+
+**Binary Search Problems:**
+
+- Find the Rotation Point in a Rotated Sorted Array : Finds the index of the smallest element in a rotated sorted array.
+- Find the Peak Element in an Array : Identifies a peak element in an array where an element is greater than its neighbors.
+- Search for a Target Value in a 2D Sorted Matrix : Finds a target value in a matrix where each row is sorted and the first element of each row is greater than the last element of the previous row.
+- Find the First and Last Occurrence of an Element in a Sorted Array : Locates the first and last occurrence of a target value in a sorted array.
+  
+**Challenge Problem (Linear & Binary Search):**  
+
+- Find the First Missing Positive Integer using Linear Search
+- Find the Index of a Target Number using Binary Search
+***
