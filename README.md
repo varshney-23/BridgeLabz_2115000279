@@ -231,3 +231,31 @@ Description:
 - Find the First Missing Positive Integer using Linear Search
 - Find the Index of a Target Number using Binary Search
 ***
+Assignment 17 - Completion Details  
+Branch : feature_17-02-25  
+Status : Completed       
+Description:   
+**Learned & Practice on Complexity** 
+- Search Algorithms: Linear Search (O(N)) vs Binary Search (O(log N)).
+- Sorting Algorithms: Bubble Sort (O(N²)), Merge Sort & Quick Sort (O(N log N)).
+- String Concatenation: String (O(N²)), StringBuilder & StringBuffer (O(N)).
+- File Reading: FileReader vs InputStreamReader (O(N)).
+- Fibonacci Computation: Recursive (O(2ⁿ)) vs Iterative (O(N)).
+- Data Structure Search: Array (O(N)), HashSet (O(1)), TreeSet (O(log N)).
+***
+Assignment 18 - Completion Details  
+Branch : feature_18-02-25  
+Status : Completed       
+Description:
+- Today’s focus was on **Generics** in Java, particularly in scenarios like **management systems** where a class is defined as a generic type `<T>`, ensuring type safety while allowing flexibility. Explored how generics can restrict type parameters to specific subclasses, making implementations more structured and reusable.  
+
+**Key Learnings**   
+- Implemented **generic classes** with bounded type parameters.  
+- Used **abstract generic classes** to enforce type constraints in management systems.  
+- Designed a flexible way to **store and retrieve objects** of specific types.  
+- Optimized the display of information using **generic methods**.  
+
+**Problems Solved**   
+1. **Management System Using Generics** – Created an abstract class `Management<T>` that manages records of type `T`.  
+2. **Type Restriction in Generics** – Ensured that `T` extends only specific classes to maintain logical consistency.  
+3. **Efficient Data Display** – Implemented a method to output stored objects dynamically.  
