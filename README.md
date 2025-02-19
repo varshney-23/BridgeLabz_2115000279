@@ -258,4 +258,20 @@ Description:
 **Problems Solved**   
 1. **Management System Using Generics** – Created an abstract class `Management<T>` that manages records of type `T`.  
 2. **Type Restriction in Generics** – Ensured that `T` extends only specific classes to maintain logical consistency.  
-3. **Efficient Data Display** – Implemented a method to output stored objects dynamically.  
+3. **Efficient Data Display** – Implemented a method to output stored objects dynamically.
+***
+Assignment 19 - Completion Details  
+Branch : feature_19-02-25  
+Status : Completed       
+Description: 
+- Mastered different types of Sets and their practical applications.
+- Implemented various Queue-based problems, including Priority Queues and Circular Buffers.
+- Solved problems on Maps, including word frequency counting, inverting maps, and merging HashMaps efficiently.
+- Optimized solutions by comparing the performance of HashSet, LinkedHashSet, and TreeSet in storing and retrieving unique policies.
+- Successfully simulated a Hospital Triage System using PriorityQueue.
+- Implemented custom logic for Stack operations using Queues, ensuring efficient push and pop operations.
+- Choosing the right data structure is crucial for optimal performance.
+- HashSet is super fast for lookups but doesn’t maintain order, while LinkedHashSet preserves insertion order.
+- TreeSet ensures sorted order but has higher time complexity due to tree operations.
+- PriorityQueue is great for implementing priority-based systems like task scheduling or triage systems.
+***
