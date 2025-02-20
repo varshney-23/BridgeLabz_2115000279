@@ -275,3 +275,18 @@ Description:
 - TreeSet ensures sorted order but has higher time complexity due to tree operations.
 - PriorityQueue is great for implementing priority-based systems like task scheduling or triage systems.
 ***
+Assignment 20 - Completion Details  
+Branch : feature_20-02-25  
+Status : Completed       
+Description:  
+- File Handling: File read/write using FileInputStream & FileOutputStream.
+- Buffered Streams: Faster file copy using BufferedInputStream & BufferedOutputStream.
+- Console Input: BufferedReader for user input, FileWriter for saving data.
+- Serialization: Store & retrieve objects using ObjectOutputStream & ObjectInputStream.
+- ByteArray Streams: Convert image to byte array using ByteArrayOutputStream.
+- Filter Streams: Convert file content to lowercase using BufferedReader & BufferedWriter.
+- Data Streams: Store/retrieve primitive data using DataOutputStream & DataInputStream.
+- Piped Streams: PipedOutputStream & PipedInputStream for inter-thread communication.
+- Performance: Buffered Streams & chunk-based reading improve speed.
+- Exception Handling: Handle IOException, FileNotFoundException, ClassNotFoundException.
+***
