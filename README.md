@@ -290,3 +290,18 @@ Description:
 - Performance: Buffered Streams & chunk-based reading improve speed.
 - Exception Handling: Handle IOException, FileNotFoundException, ClassNotFoundException.
 ***
+Assignment 21 - Completion Details  
+Branch : feature_21-02-25  
+Status : Completed       
+Description:  
+- Checked Exceptions: Learn to handle compile-time exceptions like IOException with try-catch.
+- Unchecked Exceptions: Handle runtime errors like ArithmeticException and InputMismatchException.
+- Custom Exceptions: Create and use user-defined exceptions for specific validation rules.
+- Multiple Catch Blocks: Handle multiple exceptions separately for granular error handling.
+- try-with-resources: Automatically manage resources like files using try-with-resources.
+- throw vs. throws: Understand the difference between throwing and propagating exceptions.
+- finally Block: Ensure cleanup code executes regardless of exceptions.
+- Exception Propagation: Learn how exceptions propagate through method calls.
+- Nested try-catch: Use nested blocks for isolated exception handling in complex operations.
+- Real-world Application: Apply exception handling in practical scenarios like banking systems.
+***
