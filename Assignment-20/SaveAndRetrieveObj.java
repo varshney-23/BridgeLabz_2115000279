@@ -27,9 +27,9 @@ public class SaveAndRetrieveObj {
     private static final String FILE_NAME = "employees.ser";
     public static void main(String[] args) {
         List<Employee> employees = new ArrayList<>();
-        employees.add(new Employee(1, "Aashi", "IT", 50000));
-        employees.add(new Employee(2, "Ayush", "Finance", 60000));
-        employees.add(new Employee(3, "Akrati", "HR", 55000));
+        employees.add(new Employee(1, "Ayushi", "IT", 50000));
+        employees.add(new Employee(2, "Pranjal", "Finance", 60000));
+        employees.add(new Employee(3, "Panda", "HR", 55000));
         serializeEmployees(employees);
         deserializeEmployees();
     }

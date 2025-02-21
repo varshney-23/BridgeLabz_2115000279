@@ -12,7 +12,7 @@ class Student {
 public class StoreAndRetrievePrimitiveData {
     private static final String FILE_NAME = "student_data.bin";
     public static void main(String[] args) {
-        Student student = new Student(005, "Aashi Mittal", 3.75);
+        Student student = new Student(005, "Ayushi Varshney", 4.95);
         writeStudentData(student);
         readStudentData();
     }
