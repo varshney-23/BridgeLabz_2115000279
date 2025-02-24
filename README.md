@@ -305,3 +305,33 @@ Description:
 - Nested try-catch: Use nested blocks for isolated exception handling in complex operations.
 - Real-world Application: Apply exception handling in practical scenarios like banking systems.
 ***
+Assignment 22 - Completion Details  
+Branch : feature_22-02-25  
+Status : Completed       
+Description:  
+- Regex Basics : Pattern matching for searching, validation, and text manipulation.
+- Pattern & Matcher : Java’s Pattern compiles regex, and Matcher performs operations.
+- Metacharacters & Quantifiers : Special symbols (\d, \w, *, +, {n,m}) for flexible matching.
+- Common Patterns : Email, password, and phone number validation using regex.
+- Lookaheads & Anchors : ^, $, and (?=.*X) for enforcing specific conditions in strings.
+- JUnit Basics : Java unit testing framework for automated testing.
+- JUnit Annotations : @Test, @BeforeEach, @AfterEach, @BeforeAll, @AfterAll, etc.
+- Assertions : assertEquals(), assertTrue(), assertThrows(), assertAll(), etc.
+- Parameterized & Repeated Tests : @ParameterizedTest, @RepeatedTest(n).
+- Exception Testing : assertThrows() for verifying expected exceptions.
+***
+Assignment 23 - Completion Details  
+Branch : feature_25-02-25  
+Status : Completed       
+Description:  
+- Reflection allows runtime inspection and manipulation of classes, methods, and fields.
+- Enables accessing private fields/methods and dynamic object creation.
+- Uses java.lang.reflect package with Class, Method, Field, and Constructor.
+- Used in frameworks, annotation processing, and debugging.
+- Slower performance, bypasses access control, and adds complexity.
+- Annotations provide metadata for code, enabling declarative programming.
+- Built-in annotations like @Override, @Deprecated, and @SuppressWarnings help with compile-time checks and warnings.
+- Custom annotations can be created using @interface, with retention policies and target elements.
+- Annotations are widely used in frameworks for dependency injection, validation, and logging.
+- Annotation processing tools like reflection and Lombok automate tasks and reduce boilerplate code.
+***
