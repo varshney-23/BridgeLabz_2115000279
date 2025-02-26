@@ -1,0 +1,17 @@
+[
+    {
+        "subjects": ["Mathematics", "Data Science", "Java"],
+        "name": "Ayushi",
+        "age": 22
+    },
+    {
+        "subjects": ["Mathematics", "Science", "Cpp"],
+        "name": "Pranjal",
+        "age": 19
+    },
+    {
+        "subjects": ["Mathematics", "Data Science", "Java"],
+        "name": "panda",
+        "age": 27
+    }
+]
